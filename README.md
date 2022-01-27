@@ -1,7 +1,7 @@
 # VXTrayTools
 Windows Tray Tool to access specific folders and files
 
-
+![screenshot](vxtt.png?raw=true)
 
 If you want to rebuild from sources, you need some requirements
 ```pip install configobj```
