@@ -3,19 +3,22 @@ Windows Tray Tool to access specific folders and files
 
 ![screenshot](vxtt.png?raw=true)
 
-Download from:
+Download executable ready build from:
 https://github.com/ModdingClass/VXTrayTools/releases/
 
-Extract somewhere and adjust the _ini_ files to suit your configuration.
+Extract somewhere and adjust the **_ini_** files to suit your configuration.
 
 
 
+---
 
 If you want to rebuild from sources, you need some requirements
 ```pip install configobj```
 
 For building the exe package use something like:
-```pyinstaller --onedir -w VXtrayTools.py --icon icon_vx.ico --name VXtrayTools --runtime-hook add_libs.py```
+```
+pyinstaller --onedir -w VXtrayTools.py --icon icon_vx.ico --name VXtrayTools --runtime-hook add_libs.py
+```
 
 Move the files below in the _libs_ folder:
 ```
@@ -45,7 +48,7 @@ _socket.pyd
 _ssl.pyd
 _win32sysloader.pyd
 ```
-Keep only files below near the executable (don't move those in the libs folder):
+Keep only files below near the executable (**don't move those in the libs folder!!!**):
 ```
 base_library.zip
 config_files.ini
