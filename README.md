@@ -3,6 +3,14 @@ Windows Tray Tool to access specific folders and files
 
 ![screenshot](vxtt.png?raw=true)
 
+Download from:
+https://github.com/ModdingClass/VXTrayTools/releases/
+
+Extract somewhere and adjust the _ini_ files to suit your configuration.
+
+
+
+
 If you want to rebuild from sources, you need some requirements
 ```pip install configobj```
 
