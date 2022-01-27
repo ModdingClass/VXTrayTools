@@ -1,0 +1,10 @@
+https://aecomputervision.blogspot.com/2018/10/getting-icon-association-for-any-file.html
+https://vimsky.com/zh-tw/examples/detail/python-method-win32gui.DrawIconEx.html
+http://www.brunningonline.net/simon/blog/archives/SysTrayIcon.py.html
+https://wxpython.org/Phoenix/docs/html/index.html
+https://www.cin.ufpe.br/~cfms/graduacao/2007-2/Projeto_Desenvolvimento/Software-PC/python/Lib/site-packages/win32/Demos/win32gui_menu.py
+https://www.dreamincode.net/forums/topic/281612-how-to-make-bitmaps-on-menus-transparent-in-c-win32/
+https://github.com/Travis-Sun/pywin32/blob/master/win32/Demos/win32gui_menu.py
+https://mail.python.org/pipermail/python-win32/2009-April/009078.html
+https://stackoverflow.com/questions/19760913/how-to-extract-32x32-icon-bitmap-data-from-exe-and-convert-it-into-a-pil-image-o
+https://medium.com/@philipp.h/reduce-clutter-when-using-pyinstaller-in-one-directory-mode-b631b9f7f89b

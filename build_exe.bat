@@ -1,0 +1,1 @@
+pyinstaller --onedir -w VXtrayTools.py --icon icon_vx.ico --name VXtrayTools --runtime-hook add_libs.py
